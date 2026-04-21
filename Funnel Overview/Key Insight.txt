@@ -1,0 +1,22 @@
+Funnel Overview:
+Low product view rate suggests that users are not engaging beyond landing pages, indicating potential issues with homepage design, unclear value proposition, or ineffective traffic targeting.
+Only ~20% of product viewers add items to cart, suggesting gaps in product attractiveness, pricing perception, or insufficient product information.
+Relatively strong cart-to-checkout conversion (77%) indicates low friction in early purchase intent stages, but a 45% checkout completion rate suggests room for optimization in payment experience or trust signals.
+
+Problem 1: Low product views
+Recommendations:
+Improve homepage UX (clear product categories)
+Personalize recommendations
+Optimize traffic targeting (ads mismatch)
+
+Problem 2: Low add-to-cart
+Recommendations:
+Improve product pages (images, reviews, descriptions)
+Highlight pricing/discounts
+Add urgency signals (limited stock)
+
+Problem 3: Checkout drop
+Recommendations:
+Simplify checkout flow
+Enable guest checkout
+Reduce hidden fees
