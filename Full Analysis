@@ -1,0 +1,17 @@
+Summary
+Funnel analysis identified a major drop-off at the top of the funnel, with only ~23% of users viewing products after landing. Device-level analysis showed consistent performance across platforms, ruling out UX issues as the primary driver. Further segmentation by traffic source revealed that direct and internal traffic convert significantly better (~42–53%) compared to Google and other channels (~39–41%), indicating that the main issue lies in low-intent traffic acquisition rather than product or checkout experience.
+
+Recommendation 1 — Fix traffic quality:
+refine ad targeting
+align landing pages with intent
+reduce low-quality acquisition sources
+
+Recommendation 2 — Improve top-of-funnel engagement:
+better homepage UX
+clearer product discovery
+stronger value proposition
+
+Recommendation 3 — Leverage high-intent users:
+retarget direct users
+email campaigns
+remarketing
